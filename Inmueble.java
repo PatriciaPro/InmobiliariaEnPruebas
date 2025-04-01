@@ -1,5 +1,6 @@
 public class Inmueble
 {
+	// Versión comentada
 	private String direccion;
 	private double metrosCuadrados;
 	private boolean nuevo;

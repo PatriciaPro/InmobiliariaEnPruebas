@@ -1,5 +1,6 @@
 public class Local extends Inmueble
 {
+	// Versión comentada
 	private int numEscaparates;
 	
 	public Local (int numEscaparates, String direccion, double metros, boolean nuevo, double precioBase, int antiguedad)
